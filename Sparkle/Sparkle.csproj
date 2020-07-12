@@ -62,7 +62,7 @@
     <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
   </ItemGroup>
   <ItemGroup>
-    <NativeReference Include="3rdparty\Sparkle\build\Release\Sparkle.framework">
+    <NativeReference Include="3rdparty\Sparkle\build\Build\Products\Release\Sparkle.framework">
       <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
     </NativeReference>
